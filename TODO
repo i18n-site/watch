@@ -1,0 +1,16 @@
+drwxr-xr-x@    - z    26 11 16:23   cdn_refresh
+drwxr-xr-x@    - z    11 7  14:11   cname_flatten
+drwxr-xr-x@    - z    11 4  16:39   conf
+drwxr-xr-x@    - z    26 11 16:23   cron
+drwxr-xr-x@    - z    26 11 16:23   domain
+drwxr-xr-x@    - z    26 11 16:23   heartbeat
+drwxr-xr-x@    - z    26 11 16:23   https
+drwxr-xr-x@    - z    17 8  21:46   ipv6_proxy
+drwxr-xr-x@    - z    17 8  21:46   kvrocks
+drwxr-xr-x@    - z    17 8  21:46   kvrocks_sentinel
+drwxr-xr-x@    - z    26 11 16:23   mariadb
+drwxr-xr-x@    - z    17 8  21:46   mysql_iptable
+drwxr-xr-x@    - z    17 8  21:46   orchestrator
+drwxr-xr-x@    - z    26 11 16:23   ping
+drwxr-xr-x@    - z    26 11 16:23   ping_ver
+drwxr-xr-x@    - z    17 8  21:46   smtp
